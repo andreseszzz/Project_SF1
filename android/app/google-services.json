@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "463621367135",
+    "project_id": "looking-for-random-c3e04",
+    "storage_bucket": "looking-for-random-c3e04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463621367135:android:26589199b25579c7cdc2ea",
+        "android_client_info": {
+          "package_name": "com.example.lfru_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYm_24bDgyqIVDvNLuqFaudccHZsyhoGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
